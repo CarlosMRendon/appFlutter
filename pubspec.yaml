@@ -88,7 +88,16 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
   assets:
+    - assets/img/letrasmiramar.jpeg
+    - assets/img/letrero.jpeg
+    - assets/img/ricos0.jpg
     - assets/img/traveler.jpg 
+    - assets/img/checoPerez.jpg
+    - assets/img/fernando2.jpg
+    - assets/img/sebastian-vettel.jpg
+    - assets/img/playa1.jpeg
+    - assets/img/playa2.jpeg
+    - assets/img/playa3.jpeg
 
   fonts:
     - family: Lato

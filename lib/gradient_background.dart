@@ -20,8 +20,14 @@ class GradientBackground extends StatelessWidget {
               ),
               child: Text(
                 title,
-                style: TextStyle,
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 30.0,
+                  fontFamily: "Lato",
+                  fontWeight: FontWeight.bold,
+                ),
               ),
+              alignment: Alignment(-0.9, -0.6),
     );
   }
 }

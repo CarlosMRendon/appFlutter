@@ -4,6 +4,7 @@ import 'package:prueba/review_list.dart';
 import 'description_places.dart';
 import 'review_list.dart';
 import 'gradient_background.dart';
+import 'header_appbar.dart';
 
 
 void main() {
@@ -41,7 +42,7 @@ class MyApp extends StatelessWidget {
                   ReviewList()
                 ],
               ),
-              GradientBackground(),
+              HeaderAppBar(),
             ]
           ),
       )
